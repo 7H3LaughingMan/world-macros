@@ -1,0 +1,31 @@
+{
+    "id": "user-dialogs",
+    "title": "User Dialogs",
+    "description": "A module that allows GMs to send custom dialogs to an individual user via macros.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "7H3LaughingMan",
+            "discord": "7h3laughingman"
+        }
+    ],
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "esmodules": [
+        "scripts/module.js"
+    ],
+    "url": "https://github.com/7H3LaughingMan/world-macros",
+    "bugs": "https://github.com/7H3LaughingMan/world-macros/issues",
+    "manifest": "https://raw.githubusercontent.com/7H3LaughingMan/world-macros/main/module.json",
+    "download": "https://github.com/7H3LaughingMan/world-macros/archive/refs/heads/main.zip",
+    "license": "LICENSE",
+    "readme": "README.md",
+    "media": [
+        {
+            "type": "icon",
+            "url": "https://avatars.githubusercontent.com/u/117857081?v=4"
+        }
+    ]
+}
