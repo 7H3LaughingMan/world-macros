@@ -1,7 +1,7 @@
 {
-    "id": "user-dialogs",
-    "title": "User Dialogs",
-    "description": "A module that allows GMs to send custom dialogs to an individual user via macros.",
+    "id": "world-macros",
+    "title": "World Macros",
+    "description": "A module that allows you execute macros in the \"World Macros\" folder automatically.",
     "version": "1.0.0",
     "authors": [
         {
